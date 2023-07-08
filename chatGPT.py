@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "PUT YOUR API KEY"
 
 while True:
     model_engine = "text-davinci-003"
